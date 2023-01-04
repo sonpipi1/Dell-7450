@@ -7,3 +7,6 @@ tozi.vn
 hr@tozi.vn
 https://www.facebook.com/an.truongtruong.798 may' tinh cua ban nay
 0582296888
+khong nhan mang lan
+khong nhan wifi
+không nhan dữ lieu usb
