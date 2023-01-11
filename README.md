@@ -13,7 +13,7 @@ không nhan dữ lieu usb
 /n
 cai lien tuc 3 ngay moi xong
 Devsenior IOS DEVELOPER PRO
-
+Lien he facebook : https://www.facebook.com/DevSeniorVN
 ![image description](https://github.com/sonpipi1/Hackintosh-Dell-E7450-Monterey-12/raw/main/320467198_1218366545715123_4611124690183821017_n.jpg)
 ![image description](https://github.com/sonpipi1/Hackintosh-Dell-E7450-Monterey-12/raw/main/320498989_499362902088314_3495228061973114564_n.jpg)
 ![image description](https://github.com/sonpipi1/Hackintosh-Dell-E7450-Monterey-12/raw/main/320556089_886229305747734_2191595555358563498_n.jpg)
